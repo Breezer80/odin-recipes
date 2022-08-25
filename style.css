@@ -1,0 +1,66 @@
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+}
+a:hover{
+    color: red;}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#c06666;
+    font-size: 50px;
+    text-align: center;
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+}
+ul{
+    list-style: none;
+}
+
+
+body{
+    background-color: lavender;
+    text-align: inherit;
+    line-height: 20px;
+    font-size: 18px;
+
+
+}
+.link-box{
+    background-color: lightblue;
+    width: 80%;
+    margin:auto;
+    border-style: solid;
+    border-color: darkgray;
+}
+.link-box ul{
+    list-style: none;
+    
+}
+/*image properties*/
+.img_breadpudding, .img_salmonpatties{
+  width: auto;
+  height: 500px;  
+  margin-left: 35%;
+}
+.img_overnightoats{
+   width: auto;
+   height: 500px;
+   margin-left: 35%;
+}
+.ingredients{
+    width: 87%;
+    margin:auto;
+    border-color: darkgray;
+    list-style: none;
+    
+}   
+.steps{
+    width: 90%;
+    margin:auto;
+    border-color: darkgray;
+}
+
+
